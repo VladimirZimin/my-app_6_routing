@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkmy_app_6_routing=self.webpackChunkmy_app_6_routing||[]).push([[266],{266:function(n,u,e){e.r(u);var t=e(791),c=e(184);u.default=function(){return(0,t.useEffect)((function(){}),[]),(0,c.jsx)("h1",{children:"\u0414\u043e\u043c\u0430\u0448\u043d\u044f\u044f \u0441\u0442\u0440\u0430\u043d\u0438\u0446\u0430 \ud83c\udfe0"})}}}]);
+//# sourceMappingURL=266.d19caa19.chunk.js.map

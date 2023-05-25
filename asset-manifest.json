@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/my-app_6_routing/static/css/main.7cda0caf.css",
+    "main.js": "/my-app_6_routing/static/js/main.1d99b8c3.js",
+    "static/js/266.d19caa19.chunk.js": "/my-app_6_routing/static/js/266.d19caa19.chunk.js",
+    "static/js/560.bb430dcf.chunk.js": "/my-app_6_routing/static/js/560.bb430dcf.chunk.js",
+    "static/js/648.9182d483.chunk.js": "/my-app_6_routing/static/js/648.9182d483.chunk.js",
+    "static/js/882.38c24e0b.chunk.js": "/my-app_6_routing/static/js/882.38c24e0b.chunk.js",
+    "index.html": "/my-app_6_routing/index.html",
+    "main.7cda0caf.css.map": "/my-app_6_routing/static/css/main.7cda0caf.css.map",
+    "main.1d99b8c3.js.map": "/my-app_6_routing/static/js/main.1d99b8c3.js.map",
+    "266.d19caa19.chunk.js.map": "/my-app_6_routing/static/js/266.d19caa19.chunk.js.map",
+    "560.bb430dcf.chunk.js.map": "/my-app_6_routing/static/js/560.bb430dcf.chunk.js.map",
+    "648.9182d483.chunk.js.map": "/my-app_6_routing/static/js/648.9182d483.chunk.js.map",
+    "882.38c24e0b.chunk.js.map": "/my-app_6_routing/static/js/882.38c24e0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7cda0caf.css",
+    "static/js/main.1d99b8c3.js"
+  ]
+}
